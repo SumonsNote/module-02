@@ -1,0 +1,74 @@
+.mn {
+    color: #04597a;
+    background-color: #d9e4e3;
+    border-radius: 10px;
+    margin: 40px 20px;
+    padding: 20px 30px;
+}
+.auother {
+    color: #053a6b;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Verdana;
+}
+.mn h2 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    margin-left: 550px;
+    margin-right: 550px;
+    border-radius: 10px;
+}
+#border-color-google{
+    border: 5px solid #1E90FF;
+}
+#border-color-ms{
+    border: 5px solid #737373;
+}
+#border-color-apple{
+    border: 5px solid #555555;
+}
+#border-color-facebook{
+    border: 5px solid #4267B2;
+}
+#border-color-ibm{
+    border: 5px solid #00579A;
+}
+
+.mn p {
+    text-align: justify;
+    font-size: 18px;
+    font-family: Tahoma;
+}
+.para-inline-block {
+    border: 5px solid orange;
+    font-size: 30px;
+    padding: 20px;
+    display: inline-block;
+}
+.para-inline {
+    border: 5px solid orange;
+    font-size: 30px;
+    padding: 20px;
+    display: inline;
+}
+.para-block {
+    border: 5px solid orange;
+    font-size: 30px;
+    padding: 20px;
+    display: block;
+}
+#heading-title {
+    color: #01579C;
+}
+.heding-title-number {
+    font-size: 100px;
+    color: salmon;
+}
+.news-letter {
+    font-size: 120px;
+}
+img {
+    margin: 30px;
+    border-radius: 10px;
+}
